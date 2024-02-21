@@ -1,5 +1,4 @@
 # Jailbreaking Attack against Multimodal Large Language Model
-Zhenxing Niu, Haodong Ren, Xiaoke Ma, Xinbo Gao, Gang Hua, Rong Jin
 
 ## Overview
 
