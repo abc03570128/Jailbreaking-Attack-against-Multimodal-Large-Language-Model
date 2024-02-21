@@ -51,7 +51,7 @@ Then, set the variable *llama_model* in the model config file to the LLM weight 
 * For MiniGPT-4 (Vicuna), set the LLM path 
   [here](minigpt4/configs/models/minigpt4_vicuna0.yaml#L18) at Line 18
 
-**2. Prepare the pretrained LLM weights**
+**3. Prepare the pretrained model checkpoints**
 
 Download the pretrained model checkpoints
 
@@ -70,7 +70,7 @@ in [eval_configs/minigpt4_eval.yaml](eval_configs/minigpt4_eval.yaml#L10) at Lin
 
 #### White-box Jailbreaks
 
-**1. imgJP-based Jailbreak(Multiple Harmful Behaviors)**
+***1. imgJP-based Jailbreak(Multiple Harmful Behaviors)***
 
 For MiniGPT-4(LLaMA2), run
 ```
@@ -85,7 +85,7 @@ For MiniGPT-v2, run
 python v2_mprompt.py --cfg-path eval_configs/minigptv2_eval.yaml  --gpu-id 0
 ```
 
-**2. deltaJP-based Jailbreak**
+***2. deltaJP-based Jailbreak***
 
 For MiniGPT-4(LLaMA2), run
 
