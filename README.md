@@ -11,6 +11,11 @@
   <img src="figs/fig1.png" width="500">
 </p>
 
+## Dataset
+Until now, there is no existing multimodal dataset available for evaluating MLLM-jailbreaks. However, there are some pure text datasets for LLM-jailbreaking evaluation, such as AdvBench. Therefore, we construct a multimodal dataset, namely AdvBench-M, based on AdvBench in this paper.
+
+We group all the harmful behaviors within AdvBench into 8 distinct semantic categories, specifically, “Bombs or Explosives”, “Drugs”, “Self-harm and Suicide”, “Cybersecurity and Privacy Issues”, “Physical Assault”, “Terrorism and Societal Tensions”, “Stock Market and Economy”, and “Firearms and Ammunition”. For each category, 30 semantic-relevant images were retrieved from the Internet using the Google search engine, coupled with the corresponding harmful behaviors.
+
 ## Getting Started
 
 ### Installation
