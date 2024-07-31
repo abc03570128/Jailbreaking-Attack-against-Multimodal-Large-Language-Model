@@ -142,14 +142,14 @@ python Test_Llama2_image_suffix.py
 
 ## Citing our work
 The preprint can be cited as follows
-```
-@article{niu2024jailbreaking,
-  title={Jailbreaking attack against multimodal large language model},
-  author={Niu, Zhenxing and Ren, Haodong and Gao, Xinbo and Hua, Gang and Jin, Rong},
-  journal={arXiv preprint arXiv:2402.02309},
-  year={2024}
-}
-```
+//```
+//@article{niu2024jailbreaking,
+//  title={Jailbreaking attack against multimodal large language model},
+//  author={Niu, Zhenxing and Ren, Haodong and Gao, Xinbo and Hua, Gang and Jin, Rong},
+//  journal={arXiv preprint arXiv:2402.02309},
+//  year={2024}
+//}
+//```
 
 ## Acknowledgement
 
