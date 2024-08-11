@@ -71,6 +71,9 @@ in [eval_configs/minigptv2_eval.yaml](eval_configs/minigptv2_eval.yaml#L10) at L
 For **MiniGPT-4**, set the path to the pretrained checkpoint in the evaluation config file 
 in [eval_configs/minigpt4_eval.yaml](eval_configs/minigpt4_eval.yaml#L10) at Line 8 for Vicuna version or [eval_configs/minigpt4_llama2_eval.yaml](eval_configs/minigpt4_llama2_eval.yaml#L10) for LLama2 version.   
 
+### Practical examples
+
+
 ### Launching Demo Locally
 
 #### White-box Jailbreaks
