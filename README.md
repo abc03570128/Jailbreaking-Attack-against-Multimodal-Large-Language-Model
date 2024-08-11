@@ -73,6 +73,10 @@ in [eval_configs/minigpt4_eval.yaml](eval_configs/minigpt4_eval.yaml#L10) at Lin
 
 ### Practical examples
 
+In the [fig folder](figs/), we showcase numerous successful jailbreaking instances, encompassing white-box attacks on MiniGPT4(LLaMA2) as well as examples of black-box transfer attacks.
+<p align="center">
+  <img src="figs/v1(llama2)_1.png" width="500">
+</p>
 
 ### Launching Demo Locally
 
@@ -143,8 +147,6 @@ run
 python Test_Llama2_image_suffix.py
 ```
 
-## Citing our work
-The preprint can be cited as follows
 
 ## Acknowledgement
 
