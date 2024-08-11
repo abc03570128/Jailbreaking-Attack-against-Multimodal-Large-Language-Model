@@ -11,6 +11,7 @@
   <img src="figs/fig1.png" width="500">
 </p>
 
+
 ## Dataset
 Until now, there is no existing multimodal dataset available for evaluating MLLM-jailbreaks. However, there are some pure text datasets for LLM-jailbreaking evaluation, such as AdvBench. Therefore, we construct a multimodal dataset, namely AdvBench-M, based on AdvBench in this paper.
 
@@ -76,6 +77,15 @@ in [eval_configs/minigpt4_eval.yaml](eval_configs/minigpt4_eval.yaml#L10) at Lin
 In the [fig folder](figs/), we showcase numerous successful jailbreaking instances, encompassing white-box attacks on MiniGPT4(LLaMA2) as well as examples of black-box transfer attacks.
 <p align="center">
   <img src="figs/v1(llama2)_1.png" width="500">
+</p>
+<p align="center">
+  <img src="figs/v1(llama2)_2.png" width="500">
+</p>
+<p align="center">
+  <img src="figs/Transfer_attack_1.png" width="500">
+</p>
+<p align="center">
+  <img src="figs/Transfer_attack_2.png" width="500">
 </p>
 
 ### Launching Demo Locally
