@@ -78,13 +78,13 @@ In the [fig folder](figs/), we showcase numerous successful jailbreaking instanc
 <p align="left">
   <img src="figs/v1(llama2)_1.png" width="500">
 </p>
-<p align="center">
+<p align="right">
   <img src="figs/v1(llama2)_2.png" width="500">
 </p>
-<p align="center">
+<p align="left">
   <img src="figs/Transfer_attack_1.png" width="500">
 </p>
-<p align="center">
+<p align="right">
   <img src="figs/Transfer_attack_2.png" width="500">
 </p>
 
